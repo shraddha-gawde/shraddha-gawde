@@ -13,7 +13,7 @@
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **shraddha.gawde1999@gmail.com**
-- Connect with me: <a href="https://twitter.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="30" width="30" /></a><a href="https://www.linkedin.com/in/shraddha-gawde/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="harshal55214888" alt="https://www.linkedin.com/in/shraddha-gawde/" height="30" width="30" /></a>
+- Connect with me: <a href="twitter.com/ShraddhaGawde5" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="30" width="30" /></a><a href="https://www.linkedin.com/in/shraddha-gawde/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="harshal55214888" alt="https://www.linkedin.com/in/shraddha-gawde/" height="30" width="30" /></a>
 
 - 📄 Know about my experiences [Click Here](https://test-resume.masaischool.com/resume?resumeId=65a10a78ed1721a6dcf1a929&selectedTemplate=ClassicProfessional)
 
