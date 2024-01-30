@@ -55,7 +55,7 @@
 
  </p>
 <br/><br/>
-<p><img align="center" width="1500px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shraddha-gawde&theme=dark&show_icons=true&locale=en&layout=compact&card_width=490" alt="shraddha-gawde" /></p>
+<p><img align="center" width="1500px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shraddha-gawde&theme=dark&show_icons=true&locale=en&layout=compact&card_width=495" alt="shraddha-gawde" /></p>
 
 <p>&nbsp;<img align="center" width="1500px" height="180px" src="https://github-readme-stats.vercel.app/api?username=shraddha-gawde&theme=dark&show_icons=true&locale=en&card_width=495" alt="shraddha-gawde"/></p>
 <br/>
