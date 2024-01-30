@@ -1,6 +1,10 @@
 
 <img src="http://propulsive.in/assets/img/service-icon/dev.gif" alt="web-development" />
 <h1 align="center">Hi 👋, I'm Shraddha Gawde</h1>
+
+[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡️;700%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
+<hr>
+
 <h3 align="center">Fast self-learner and result-oriented aspiring full stack web developer with a specialization in Bachend (Node.js) and DSA. A calm and focused problem solver</h3>
 <br/>
 <img align="right" width="450" src="https://seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" alt="it's me" />
