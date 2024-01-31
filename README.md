@@ -60,3 +60,7 @@
 <p>&nbsp;<img align="center" width="1500px" height="180px" src="https://github-readme-stats.vercel.app/api?username=shraddha-gawde&theme=dark&show_icons=true&locale=en&card_width=495" alt="shraddha-gawde"/></p>
 <br/>
 <p><img align="center" width="1500px" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha-gawde&theme=dark&card_width=495" alt="shraddha-gawde" /></p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shraddha-gawde&repo=rideShareX-cab_Service)](https://github.com/shraddha-gawde/rideShareX-cab_Service)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shraddha-gawde&repo=neural-innovator-5123)](https://github.com/shraddha-gawde/neural-innovator-5123)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shraddha-gawde&repo=notes_application)](https://github.com/shraddha-gawde/notes_application)
