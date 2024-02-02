@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddha-gawde&label=Profile%20views&color=0e75b6&style=flat" alt="profile-view" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [Portfolio]()
+- 👨‍💻 All of my projects are available at [Portfolio](https://shraddha-gawde.github.io/)
 
 - 💬 Ask me about **JavaScript**
 
