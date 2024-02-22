@@ -5,7 +5,7 @@
 [<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=eb7a66&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;Node.js+Backend+Developer+⚡️;1200%2B+Hours+of+Coding+Experience+⚡️;500%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
 <hr>
 
-<h3 align="center">Fast self-learner and result-oriented aspiring full stack web developer with a specialization in Bachend (Node.js) and DSA. A calm and focused problem solver</h3>
+<h3 align="center">Fast self-learner and result-oriented aspiring full stack web developer with a specialization in Backend (Node.js) and DSA. A calm and focused problem solver</h3>
 <br/>
 <img align="right" width="450" src="https://seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" alt="it's me" />
 <br/>
