@@ -74,11 +74,16 @@
   </a>
 </p>
 
+
+</div>
 <br/><br/>
 <p><img align="center" width="1500px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shraddha-gawde&theme=dark&show_icons=true&locale=en&layout=compact&card_width=495" alt="shraddha-gawde" /></p>
 
 <p>&nbsp;<img align="center" width="1500px" height="180px" src="https://github-readme-stats.vercel.app/api?username=shraddha-gawde&theme=dark&show_icons=true&locale=en&card_width=495" alt="shraddha-gawde"/></p>
 <br/>
 <p><img align="center" width="1500px" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha-gawde&theme=dark&card_width=495" alt="shraddha-gawde" /></p>
-
+<h3>🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shraddha-gawde&theme=radical&no-frame=false&no-bg=true&margin-w=4&align=center" alt="GitHub Profile Trophy">
+</p>
 
